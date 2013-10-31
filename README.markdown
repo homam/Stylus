@@ -4,9 +4,13 @@ An extension for Sublime Text 2.
 
 Build system and syntax hi-lighting for Stylus language
 
+## Nib
+This fork changes `submile-build` to import nib by default.
+
 ## Limitations
 
-*It has been confirmed as working on ubuntu 11.10, so I assume it should work on other flavors, but I have not tested any others*
+*It has been confirmed
+ as working on ubuntu 11.10, so I assume it should work on other flavors, but I have not tested any others*
 
 *It is working on windows, but there is an issue if there are unicode characters in the path variable - this is expected to be a sublime-text issue and has been reported*
 
