@@ -1,5 +1,5 @@
 {
-  "cmd": ["stylus", "$file"],
+  "cmd": ["stylus", "-u", "nib", "$file"],
   "file_regex": ".",
   "selector": "source.stylus",
 
